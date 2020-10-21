@@ -110,3 +110,4 @@ D:\StudiaGit\MVC\MVC\obj\Debug\netcoreapp3.1\MVC.csproj.CoreCompileInputs.cache
 D:\StudiaGit\MVC\MVC\obj\Debug\netcoreapp3.1\MVC.MvcApplicationPartsAssemblyInfo.cache
 D:\StudiaGit\MVC\MVC\obj\Debug\netcoreapp3.1\Razor\Views\Test\Index.cshtml.g.cs
 D:\StudiaGit\MVC\MVC\obj\Debug\netcoreapp3.1\Razor\Views\Test\TestModel.cshtml.g.cs
+D:\StudiaGit\MVC\MVC\obj\Debug\netcoreapp3.1\Razor\Views\Store\ProductsModel.cshtml.g.cs

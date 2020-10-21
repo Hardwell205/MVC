@@ -1,0 +1,18 @@
+﻿@model IEnumerable<ProductsModel>
+@{ ViewData["Title"] = "BladeStore";
+}
+
+<h1>Produkty</h1>
+@foreach (var m in Model)
+{
+    <p>
+        <b>@m.Products - @m.Price @m.Currency </b>  <br />
+    </p>
+    <p>@m.Descrip</p>
+    <form>
+        <button id="hidden" value="0" asp-action="check">
+            Pokaż opis
+
+        </button>
+    </form>
+}
